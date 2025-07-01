@@ -1,0 +1,8 @@
+Flask
+torch
+monai       # Для работы с UNet++ если нужна
+pydicom         # Чтение и проверка DICOM
+opencv-python    # Обработка изображений
+kafka-python    # Работа с Kafka
+numpy
+Pillow
